@@ -1,6 +1,6 @@
-#控制流(zyy考试)
+# 控制流(zyy考试)
 
-##scanf
+## scanf
 
 
-##printf
+## printf
