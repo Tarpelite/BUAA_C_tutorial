@@ -1,6 +1,19 @@
-# 控制流(zyy考试)
+# 控制流
 
-## scanf
+## 条件语句
 
+### if
 
-## printf
+### switch
+
+### case
+
+### 表达式的真值
+
+## 循环语句
+
+### for 
+
+### while
+
+### do-while
