@@ -1,15 +1,15 @@
-#数据类型
+# 数据类型
 
-##整型(zyy写日记)
+## 整型(zyy写日记)
 
-###char
+### char
 
-###int
+### int
 
-###long long
+### long long
 
-##浮点型(dyj买东西)
+## 浮点型(dyj买东西)
 
-###float
+### float
 
-###double
+### double
