@@ -4,7 +4,7 @@
 在上一章中我们特意提及了字符数组中特定的一类：字符串，它是指使用null字符(ASCII码 0)终止的一维数组。
 下面的声明和初始化，创建了字符串一个包含`Hello`的字符串。
 
-```
+```c
 char str[6]={'H','e','l','l','o'};
 ```
 
@@ -12,7 +12,7 @@ char str[6]={'H','e','l','l','o'};
 字符串常量用一对双引号及其内的字符表示。
 据此**初始化**语句可以写成以下形式
 
-```
+```c
 char str[]="Hello";
 ```
 
@@ -22,7 +22,7 @@ char str[]="Hello";
 输入和输出字符串可以用转义字符`%s`
 如下
 
-```
+```c
 #include <stdio.h>
 int main(){
 	char str[10];
@@ -48,7 +48,7 @@ int main(){
 
 ##例子
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 int main(){

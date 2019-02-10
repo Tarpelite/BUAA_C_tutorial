@@ -23,7 +23,7 @@
 
 如下所示
 
-```
+```c
 double goods[5]={1.0,2.0,3.0,4.5,1.1};
 int std_score[]={59,60,99,100,98,89};
 int height[10]={0};
@@ -39,14 +39,14 @@ int height[10]={0};
 
 形式参数是一个未定义大小的数组，实际参数是数组的名字。
 
-```
+```c
 void myFunc(int param[]);
 ```
 
 ## 小应用
 输入$n$个整数，输出他们的和。
 
-```
+```c
 #include <stdio.h>
 
 int getsum(int num[],int size){
