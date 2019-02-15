@@ -13,4 +13,4 @@ BUAA C language basic tutorial
 7. [小民特训2——字符串](第七章/content.md)
 8. [MountVoom——函数](第八章/content.md)  
 9. [login256——递归](第九章/content.md)  
-10. [小民特训3——指针](第十章/pointer.md) [小民特训3——指针](第十章/struct.md)
+10. [小民特训3——指针](第十章/pointer.md) [小民特训3——结构体](第十章/struct.md)
