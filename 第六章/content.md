@@ -43,7 +43,8 @@ int height[10]={0};
 void myFunc(int param[]);
 ```
 
-## 小应用
+## 小应用  
+
 输入$n$个整数，输出他们的和。
 
 ```c
