@@ -43,7 +43,7 @@ if (-1)
 
 if的语法十分简单，这里不赘述。我们主要举几个例子。
 
-如果n大于0，输出QiuZhangKeYanKeTian。无论什么情况下都输出QiuZhangRenJianRenAi  
+如果n大于0，输出Tarpe is easy-going。无论什么情况下都输出Tarpe is a strict TA
 
 ```c
 if (n > 0)
