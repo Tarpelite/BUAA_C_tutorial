@@ -4,7 +4,7 @@ BUAA C language basic tutorial
 
 ## 章节目录  
 
-1. [你好，我不只是C语言——序](第一章/content.md)
+1. [你好，我不只是C语言——序](第一章/main.md)
 2. [今天你skr程序猿——IDE介绍](第二章/content.md)
 3. [捕虫（debug）是个技术活——debug指南](第三章/content.md)  
 4. [杯子有大有小——数据类型](第四章/content.md)  
