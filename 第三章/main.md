@@ -17,7 +17,7 @@
 
 + 难度系数：约等于上课随手刷个TD
 + 常见系数：听说隔壁宿舍开黑的那个也会了  
-+ 使用指南：出门左转这个系列[第一篇推送](..\第一章\main.md) 
++ 使用指南：出门左转这个系列[第一篇推送](https://github.com/Tarpelite/BUAA_C_tutorial/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/main.md) 
 
 ## 杀虫剂3 ———— 断言
 
